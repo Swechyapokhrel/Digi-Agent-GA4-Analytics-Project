@@ -350,16 +350,3 @@ It shows how marketing analytics can help a business understand:
 - Which SEO opportunities matter
 - Which channels support revenue growth
 
----
-
-## Author
-
-**Swechya Pokhrel**  
-MS in Marketing Analytics and Insights  
-Digital Marketing and Marketing Analytics Enthusiast
-
----
-
-## Project Status
-
-Completed and portfolio-ready.
