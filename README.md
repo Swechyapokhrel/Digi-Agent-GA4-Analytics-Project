@@ -1,6 +1,6 @@
 # Digi Agent GA4 Website Funnel Analytics Project
 
-![Project Banner]project-banner.png
+project-banner.png
 
 ## Project Overview
 
