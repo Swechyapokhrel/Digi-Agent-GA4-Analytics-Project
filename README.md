@@ -143,7 +143,7 @@ The analysis focused on the following KPIs:
 
 ## Dashboard Preview
 
-![Dashboard Overview](assets/readme/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 The Excel dashboard summarizes overall website performance, channel contribution, landing page results, SEO opportunities, and lead conversion performance.
 
@@ -185,7 +185,7 @@ The final output focused on insights that a business owner or marketing manager 
 
 ## Landing Page Funnel Analysis
 
-![Landing Page Funnel Analysis](assets/readme/funnel-analysis.png)
+![Landing Page Funnel Analysis](funnel-analysis.png)
 
 The landing page analysis helped identify which pages attracted traffic and which pages actually converted users into leads.
 
@@ -204,7 +204,7 @@ The analysis compared:
 
 ## SEO Opportunity Analysis
 
-![SEO Opportunity Analysis](assets/readme/seo-opportunity.png)
+![SEO Opportunity Analysis](seo-opportunity.png)
 
 The SEO analysis identified search queries with strong growth potential.
 
@@ -223,7 +223,7 @@ This helped separate simple traffic keywords from keywords that could support re
 
 ## Key Business Insights
 
-![Business Insights](assets/readme/business-insights.png)
+![Business Insights](business-insights.png)
 
 ### 1. Organic Search showed strong engagement potential
 
